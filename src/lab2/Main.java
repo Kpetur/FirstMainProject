@@ -56,12 +56,12 @@ public class Main {
         int restImpartire = l % m;
         return restImpartire;
     }
-    public static int celsius (int o){                              // metoda nerezolvata/incorecta...
+    /*public static int celsius (int o){                              // metoda nerezolvata/incorecta...
         int n = -14;
         int celsius = (5/9)*(n-32);
         int o = int celsius;
-        return celsius;
+        return celsius;*/
 
         // exercitiul 8 si 9 in stare nerezolvata momentan
-    }
 }
+
